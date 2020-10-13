@@ -2,3 +2,4 @@ Name: Jay Ladhad
 Major: Computer Engineering
 Year: Senior
 Hobby: Tennis
+Classes: COEN 174, COEN 194
